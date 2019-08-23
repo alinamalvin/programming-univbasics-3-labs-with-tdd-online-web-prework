@@ -1,3 +1,4 @@
 first_number=10
 second_number=1
 sum=first_number+second_number
+difference=firs_number-second_number
